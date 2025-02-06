@@ -1,1 +1,2 @@
-console.log("Excellency continued");
+console.log("Excellency continued too");
+conaole.log("Excellency Discontinued");
